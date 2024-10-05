@@ -48097,8 +48097,9 @@
         <y>2750.000</y>
         <z>3900.000</z>
       </position>
-      <bonus-type>crystal_500</bonus-type>
       <bonus-type>crystal_100</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <bonus-type>crystal</bonus-type>
       <bonus-type>damageup</bonus-type>
       <game-mode>dom</game-mode>
@@ -48125,8 +48126,9 @@
         <y>250.000</y>
         <z>3900.000</z>
       </position>
-      <bonus-type>crystal_500</bonus-type>
       <bonus-type>crystal_100</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <bonus-type>crystal</bonus-type>
       <bonus-type>damageup</bonus-type>
       <game-mode>dom</game-mode>

@@ -52810,7 +52810,8 @@
       </position>
       <bonus-type>crystal</bonus-type>
       <bonus-type>crystal_100</bonus-type>
-      <bonus-type>crystal_500</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <game-mode>dm</game-mode>
       <game-mode>ctf</game-mode>
       <game-mode>tdm</game-mode>
@@ -52862,7 +52863,8 @@
       </position>
       <bonus-type>crystal</bonus-type>
       <bonus-type>crystal_100</bonus-type>
-      <bonus-type>crystal_500</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <game-mode>dm</game-mode>
       <game-mode>ctf</game-mode>
       <game-mode>tdm</game-mode>

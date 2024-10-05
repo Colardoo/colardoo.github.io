@@ -33393,6 +33393,7 @@
       </max>
       <bonus-type>crystal_100</bonus-type>
 <bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <bonus-type>medkit</bonus-type>
     </bonus-region>
     <bonus-region name="bonus1" free="true">

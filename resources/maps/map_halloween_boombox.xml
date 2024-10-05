@@ -32741,8 +32741,9 @@
         <y>3250.000</y>
         <z>2400.000</z>
       </position>
-      <bonus-type>crystal_500</bonus-type>
       <bonus-type>crystal_100</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
     </bonus-region>
     <bonus-region name="free-bonus" parachute="true">
       <rotation>
@@ -32763,8 +32764,9 @@
         <y>-2750.000</y>
         <z>2550.000</z>
       </position>
-      <bonus-type>crystal_500</bonus-type>
       <bonus-type>crystal_100</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
     </bonus-region>
     <bonus-region name="free-bonus" parachute="true">
       <rotation>
@@ -32848,8 +32850,9 @@
         <y>939.683</y>
         <z>2427.814</z>
       </position>
-      <bonus-type>crystal_500</bonus-type>
       <bonus-type>crystal_100</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
     </bonus-region>
     <bonus-region name="free-bonus" parachute="true">
       <rotation>

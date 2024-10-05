@@ -119764,7 +119764,8 @@
         <z>3600.000</z>
       </position>
       <bonus-type>crystal_100</bonus-type>
-      <bonus-type>crystal_500</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <bonus-type>crystal</bonus-type>
       <game-mode>ctf</game-mode>
       <game-mode>tdm</game-mode>
@@ -119816,7 +119817,8 @@
         <z>3600.000</z>
       </position>
       <bonus-type>crystal_100</bonus-type>
-      <bonus-type>crystal_500</bonus-type>
+<bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
       <bonus-type>crystal</bonus-type>
       <game-mode>ctf</game-mode>
       <game-mode>tdm</game-mode>

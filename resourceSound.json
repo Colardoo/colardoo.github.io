@@ -30,6 +30,18 @@
 	    "src": "gold.mp3"
 	  },
 	  {
+	    "name": "sprayer", 
+	    "src": "sprayer.mp3"
+	  },
+	  {
+	    "name": "hello2020", 
+	    "src": "sounds/hello2020.mp3"
+	  },
+	  {
+	    "name": "halloween_ambient_sound",
+	    "src": "halloween.mp3"
+	  },
+	  {
 	    "name": "alpha", 
 	    "src": "sounds/alpha.mp3"
 	  },
@@ -156,14 +168,6 @@
 	  {
 		"name": "shaft_shot",
         "src": "turret/shaft/shot.wav"	
-	  },
-	  {
-		"name": "snowman_shotSound",
-        "src": "turret/snowman/shot.wav"	
-	  },
-	  {
-		"name": "snowman_shotExplosion",
-        "src": "turret/snowman/expl.wav"	
 	  },
 	  {
 		"name": "shaft_zoomModeSound",

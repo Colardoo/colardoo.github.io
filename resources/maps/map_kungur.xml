@@ -73475,6 +73475,7 @@
       </position>
       <bonus-type>crystal_100</bonus-type>
 <bonus-type>crystal_500</bonus-type>
+<bonus-type>spin_box</bonus-type>
     </bonus-region>
     <bonus-region name="free-bonus" parachute="true">
       <rotation>
