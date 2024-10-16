@@ -453,6 +453,30 @@
             "src": "colormaps/impulse/preview.png"
         },
 		{
+            "name": "skybox_halloween_1",
+            "src": "skyboxes/skybox_halloween/04.jpg"
+        },
+        {
+            "name": "skybox_halloween_2",
+            "src": "skyboxes/skybox_halloween/02.jpg"
+        },
+        {
+            "name": "skybox_halloween_3",
+            "src": "skyboxes/skybox_halloween/03.jpg"
+        },
+        {
+            "name": "skybox_halloween_4",
+            "src": "skyboxes/skybox_halloween/01.jpg"
+        },
+        {
+            "name": "skybox_halloween_5",
+            "src": "skyboxes/skybox_halloween/06.jpg"
+        },
+        {
+            "name": "skybox_halloween_6",
+            "src": "skyboxes/skybox_halloween/05.jpg"
+        },
+		{
             "name": "skybox29_1",
             "src": "skyboxes/skybox29/04.jpg"
         },
