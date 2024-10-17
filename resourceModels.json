@@ -399,7 +399,7 @@
         },
         {
             "name": "bonus_box_gold",
-            "src": "bonus/box/boxes/pumpkin.3ds"
+            "src": "bonus/boxes/pumpkin/pumpkin.3ds"
         },
 		{
 			"name": "bonus_box_spin",
