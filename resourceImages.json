@@ -3585,10 +3585,10 @@
 		},
 		{
 			"name": "bonus_box_gold",
-			"src": "bonus/boxes/crystal100/box.jpg"
+			"src": "bonus/boxes/pumpkin/pumpkin.jpg"
 		},
 		{
-			"name": "bonus_box_crystall",
+			"name": "bonus_box_crystal",
 			"src": "bonus/boxes/crystal/box.jpg?v2021"
 		},
 		{
