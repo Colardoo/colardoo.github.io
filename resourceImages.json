@@ -1392,28 +1392,28 @@
 			"src": "turret/twins/m3/preview.png?v1"
 		},
 		{
-			"name": "railgun_cs_m0_details",
+			"name": "railguncs_m0_details",
 			"src": "turret/railgun_cs/m0/details.png?v1"
 		},
 		{
-			"name": "railgun_cs_m0_preview",
+			"name": "railguncs_m0_preview",
 			"src": "turret/railgun_cs/m0/preview.png?v1"
 		},
 		{
-			"name": "railgun_cs_m0_lightmap",
+			"name": "railguncs_m0_lightmap",
 			"src": "turret/railgun_cs/m0/lightmap.jpg?v1"
 		},
 		{
 			"name": "railgunxt_m0_details",
-			"src": "turret/railgunxt/m0/details.png?v1"
+			"src": "turret/railgun_xt/m0/details.png?v1"
 		},
 		{
 			"name": "railgunxt_m0_preview",
-			"src": "turret/railgunxt/m0/preview.png?v1"
+			"src": "turret/railgun_xt/m0/preview.png?v1"
 		},
 		{
 			"name": "railgunxt_m0_lightmap",
-			"src": "turret/railgunxt/m0/lightmap.jpg?v1"
+			"src": "turret/railgun_xt/m0/lightmap.jpg?v1"
 		},
 		{
 			"name": "railgun_m0_details",
@@ -4168,7 +4168,7 @@
 			"src": "maps/map_shortbridge_winter_preview.jpg"
 		},
 		{
-			"name": "railgun_cs_m0_shot",
+			"name": "railguncs_m0_shot",
 			"src": "turret/railgun_cs/m0/railgun.png?v1"
 		},
 		{
@@ -4192,15 +4192,15 @@
 			"src": "turret/railgun/m3/railgun.png?v1"
 		},
 		{
-			"name": "railgun_cs_m0_chargingPart1",
+			"name": "railguncs_m0_chargingPart1",
 			"src": "turret/railgun_cs/m0/charge_part1.png"
 		},
 		{
-			"name": "railgun_cs_m0_chargingPart2",
+			"name": "railguncs_m0_chargingPart2",
 			"src": "turret/railgun_cs/m0/charge_part2.png"
 		},
 		{
-			"name": "railgun_cs_m0_chargingPart3",
+			"name": "railguncs_m0_chargingPart3",
 			"src": "turret/railgun_cs/m0/charge_part3.png"
 		},
 		{
