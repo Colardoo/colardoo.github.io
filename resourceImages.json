@@ -3588,7 +3588,7 @@
 			"src": "bonus/boxes/pumpkin/pumpkin.jpg"
 		},
 		{
-			"name": "bonus_box_crystall",
+			"name": "bonus_box_crystal",
 			"src": "bonus/boxes/crystal/box.jpg?v2021"
 		},
 		{
@@ -4400,7 +4400,7 @@
 			"src": "turret/smoky/m1/fire.png"
 		},
 		{
-			"name": "ssmoky_cs_m2_explosion",
+			"name": "smoky_cs_m2_explosion",
 			"src": "turret/smoky/m2/fire.png"
 		},
 		{
