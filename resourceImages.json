@@ -1236,6 +1236,18 @@
 			"src": "turret/smoky/m3/preview.png?v1"
 		},
 		{
+			"name": "smokyxt_m0_preview",
+			"src": "turret/smoky_xt/preview.png"
+		},
+		{
+			"name": "smokyxt_m0_lightmap",
+			"src": "turret/smoky_xt/lightmap.jpg"
+		},
+		{
+			"name": "smokyxt_m0_details",
+			"src": "turret/smoky_xt/details.png"
+		},
+		{
 			"name": "flamethrowerhell_m0_lightmap",
 			"src": "turret/flamethrower_hell/m0/lightmap.jpg?v1"
 		},
@@ -1560,18 +1572,6 @@
 			"src": "turret/ricochet/m3/preview.png?v1"
 		},
 		{
-			"name": "smokyxt_m0_preview",
-			"src": "turret/smoky_xt/preview.png"
-		},
-		{
-			"name": "smokyxt_m0_lightmap",
-			"src": "turret/smoky_xt/lightmap.jpg"
-		},
-		{
-			"name": "smokyxt_m0_details",
-			"src": "turret/smoky_xt/details.png"
-		},
-		{
 			"name": "shaft_m0_preview",
 			"src": "turret/shaft/m0/preview.png?r=1"
 		},
@@ -1634,6 +1634,22 @@
 		{
 			"name": "shaft_m3_trail",
 			"src": "turret/shaft/m3/shaft_trail.png"
+		},
+		{
+			"name": "shafthell_m0_preview",
+			"src": "turret/shaft_hell/m0/preview.png?r=1"
+		},
+		{
+			"name": "shafthell_m0_lightmap",
+			"src": "turret/shaft_hell/m0/lightmap.jpg?r=1"
+		},
+		{
+			"name": "shafthell_m0_details",
+			"src": "turret/shaft_hell/m0/details.png?r=1"
+		},
+		{
+			"name": "shafthell_m0_trail",
+			"src": "turret/shaft_hell/m0/shaft_trail.png"
 		},
 		{
 			"name": "snowman_m0_details",
@@ -4760,7 +4776,15 @@
 			"src": "turret/shaft/m3/shaft_explosion.png"
 		},
 		{
-			"name": "shaft_m3_shot",
+			"name": "shafthell_m0_shot",
+			"src": "turret/shaft_hell/m0/shaft_shot.png"
+		},
+		{
+			"name": "shafthell_m0_explosionTexture",
+			"src": "turret/shaft_hell/m0/shaft_explosion.png"
+		},
+		{
+			"name": "shafthell_m0_shot",
 			"src": "turret/shaft/m3/shaft_shot.png"
 		},
 		{

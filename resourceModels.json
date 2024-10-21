@@ -66,10 +66,6 @@
 			"src": "turret/frezee/m3/turret.3ds"
 		},
 		{
-			"name": "smokyxt_m0",
-			"src": "turret/smokyxt/turret.3ds"
-		},
-		{
 			"name": "hammer_m0",
 			"src": "turret/hammer/m0/turret.3ds"
 		},
@@ -88,6 +84,10 @@
 		{
 			"name": "smoky_m3",
 			"src": "turret/smoky/m3/turret.3ds"
+		},
+		{
+			"name": "smokyxt_m0",
+			"src": "turret/smoky_xt/turret.3ds"
 		},
 		{
 			"name": "smoky_cs_m0",
@@ -228,6 +228,10 @@
 		{
 			"name": "shaft_m3",
 			"src": "turret/shaft/m3/turret.3ds"
+		},
+		{
+			"name": "shafthell_m0",
+			"src": "turret/shaft_hell/m0/turret.3ds"
 		},
 		{
 			"name": "snowman_m0",
@@ -398,8 +402,8 @@
 			"src": "hull/mamont/m3/hull.3ds?v1"
 		},
 		{
-            "name": "bonus_box_gold",
-            "src": "bonus/boxes/pumpkin/pumpkin.3ds"
+			"name": "bonus_box_gold",
+			"src": "bonus/boxes/pumpkin/pumpkin.3ds"
 		},
 		{
 			"name": "bonus_box_spin",
