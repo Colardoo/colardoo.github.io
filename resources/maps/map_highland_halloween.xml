@@ -50796,7 +50796,27 @@
       </rotation>
       <position>
         <x>-19299.046</x>
-        <y>-488.438</y>
+        <y>1000.438</y>
+        <z>900.000</z>
+      </position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation>
+        <z>-3.054</z>
+      </rotation>
+      <position>
+        <x>-16358.046</x>
+        <y>524.438</y>
+        <z>1500.000</z>
+      </position>
+    </spawn-point>
+    <spawn-point type="dm">
+      <rotation>
+        <z>5.672</z>
+      </rotation>
+      <position>
+        <x>-15200.046</x>
+        <y>-5500.438</y>
         <z>900.000</z>
       </position>
     </spawn-point>
