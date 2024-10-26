@@ -500,6 +500,30 @@
 			"src": "skyboxes/skybox29/05.jpg"
 		},
 		{
+			"name": "skybox3_1",
+			"src": "skyboxes/skybox3/04.jpg"
+		},
+		{
+			"name": "skybox3_2",
+			"src": "skyboxes/skybox3/02.jpg"
+		},
+		{
+			"name": "skybox3_3",
+			"src": "skyboxes/skybox3/03.jpg"
+		},
+		{
+			"name": "skybox3_4",
+			"src": "skyboxes/skybox3/01.jpg"
+		},
+		{
+			"name": "skybox3_5",
+			"src": "skyboxes/skybox3/06.jpg"
+		},
+		{
+			"name": "skybox3_6",
+			"src": "skyboxes/skybox3/05.jpg"
+		},
+		{
 			"name": "skybox38_1",
 			"src": "skyboxes/skybox38/04.jpg"
 		},
@@ -642,6 +666,78 @@
 		{
 			"name": "skybox39_6",
 			"src": "skyboxes/skybox39/05.jpg"
+		},
+		{
+			"name": "skybox22_1",
+			"src": "skyboxes/skybox22/04.jpg"
+		},
+		{
+			"name": "skybox22_2",
+			"src": "skyboxes/skybox22/02.jpg"
+		},
+		{
+			"name": "skybox22_3",
+			"src": "skyboxes/skybox22/03.jpg"
+		},
+		{
+			"name": "skybox22_4",
+			"src": "skyboxes/skybox22/01.jpg"
+		},
+		{
+			"name": "skybox22_5",
+			"src": "skyboxes/skybox22/06.jpg"
+		},
+		{
+			"name": "skybox22_6",
+			"src": "skyboxes/skybox22/05.jpg"
+		},
+		{
+			"name": "skybox11_1",
+			"src": "skyboxes/skybox11/04.jpg"
+		},
+		{
+			"name": "skybox11_2",
+			"src": "skyboxes/skybox11/02.jpg"
+		},
+		{
+			"name": "skybox11_3",
+			"src": "skyboxes/skybox11/03.jpg"
+		},
+		{
+			"name": "skybox11_4",
+			"src": "skyboxes/skybox11/01.jpg"
+		},
+		{
+			"name": "skybox11_5",
+			"src": "skyboxes/skybox11/06.jpg"
+		},
+		{
+			"name": "skybox11_6",
+			"src": "skyboxes/skybox11/05.jpg"
+		},
+		{
+			"name": "skybox28_1",
+			"src": "skyboxes/skybox28/04.jpg"
+		},
+		{
+			"name": "skybox28_2",
+			"src": "skyboxes/skybox28/02.jpg"
+		},
+		{
+			"name": "skybox28_3",
+			"src": "skyboxes/skybox28/03.jpg"
+		},
+		{
+			"name": "skybox28_4",
+			"src": "skyboxes/skybox28/01.jpg"
+		},
+		{
+			"name": "skybox28_5",
+			"src": "skyboxes/skybox28/06.jpg"
+		},
+		{
+			"name": "skybox28_6",
+			"src": "skyboxes/skybox28/05.jpg"
 		},
 		{
 			"name": "map_forest_preview",
