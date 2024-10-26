@@ -3956,6 +3956,10 @@
 			"src": "maps/map_madness_preview.jpg"
 		},
 		{
+			"name": "map_madness_3_preview",
+			"src": "maps/map_madness_3_preview.jpg"
+		},
+		{
 			"name": "map_madness_space_preview",
 			"src": "maps/map_madness_space_preview.jpg"
 		},
