@@ -2209,6 +2209,13 @@
 			]
 		},
 		{
+			"name": "map_madness_3.xml",
+			"libs": [
+				"resources/library/Elements v1.tara",
+				"resources/library/Promotion.tara"
+			]
+		},
+		{
 			"name": "map_dust.xml",
 			"libs": [
 				"resources/library/Iranzamin.tara",
