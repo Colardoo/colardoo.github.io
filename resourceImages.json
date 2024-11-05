@@ -3697,7 +3697,7 @@
 		},
 		{
 			"name": "bonus_box_gold",
-			"src": "bonus/boxes/box.jpg"
+			"src": "bonus/boxes/crystal100/box.jpg"
 		},
 		{
 			"name": "bonus_box_crystal",
