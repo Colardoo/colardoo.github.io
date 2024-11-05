@@ -500,6 +500,30 @@
 			"src": "skyboxes/skybox29/05.jpg"
 		},
 		{
+			"name": "skybox3_1",
+			"src": "skyboxes/skybox3/04.jpg"
+		},
+		{
+			"name": "skybox3_2",
+			"src": "skyboxes/skybox3/02.jpg"
+		},
+		{
+			"name": "skybox3_3",
+			"src": "skyboxes/skybox3/03.jpg"
+		},
+		{
+			"name": "skybox3_4",
+			"src": "skyboxes/skybox3/01.jpg"
+		},
+		{
+			"name": "skybox3_5",
+			"src": "skyboxes/skybox3/06.jpg"
+		},
+		{
+			"name": "skybox3_6",
+			"src": "skyboxes/skybox3/05.jpg"
+		},
+		{
 			"name": "skybox38_1",
 			"src": "skyboxes/skybox38/04.jpg"
 		},
@@ -3673,7 +3697,7 @@
 		},
 		{
 			"name": "bonus_box_gold",
-			"src": "bonus/boxes/pumpkin/pumpkin.jpg"
+			"src": "bonus/boxes/box.jpg"
 		},
 		{
 			"name": "bonus_box_crystal",
@@ -3930,6 +3954,10 @@
 		{
 			"name": "map_madness_preview",
 			"src": "maps/map_madness_preview.jpg"
+		},
+		{
+			"name": "map_madness_3_preview",
+			"src": "maps/map_madness_3_preview.jpg"
 		},
 		{
 			"name": "map_madness_space_preview",
