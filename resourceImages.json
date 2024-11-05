@@ -3697,7 +3697,7 @@
 		},
 		{
 			"name": "bonus_box_gold",
-			"src": "bonus/boxes/pumpkin/pumpkin.jpg"
+			"src": "bonus/boxes/box.jpg"
 		},
 		{
 			"name": "bonus_box_crystal",
